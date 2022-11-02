@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/botwranglers/ocearch/master)
 
-### Ocearch Shark data analysis
+## Ocearch Shark data analysis
 
 The [Ocearch site](https://www.ocearch.org/) compiles information about Shark locations by tagging individual sharks with trackers that 'ping' with their location.  There are hundreds of sharks tracked, and tens of thousands of locational pings.
 
