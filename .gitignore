@@ -1,0 +1,5 @@
+__pycache__
+*.py[cod]
+*.vectorized_metadata
+*.vectorized_content
+.noteablekeep
