@@ -1,4 +1,1 @@
-requests
-pandas
-folium
-jupyter_contrib_nbextensions
+emojii
